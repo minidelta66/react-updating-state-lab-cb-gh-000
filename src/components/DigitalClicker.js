@@ -25,3 +25,5 @@ upButton() {
 
 
 }
+
+export default DigitalClicker;
