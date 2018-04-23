@@ -11,7 +11,9 @@ class DigitalClicker extends React.Component {
 
   render() {
     return (
-      <button onClick={}
+      <div>
+      <button onClick={this.upButton.bind(this)}<p>Up!</p></button>
+      </div>
     )
   }
 
